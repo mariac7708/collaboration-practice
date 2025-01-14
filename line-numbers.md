@@ -2,11 +2,11 @@
 #### 2
 #### 3 I think it worked
 #### 4
-#### 5 I did it again 
+#### 5 I did it again
 #### 6
 #### 7 Hi
 #### 8
-#### 9
+#### 9 Github is awesome
 #### 10
 #### 11
 #### 12
